@@ -1,1 +1,0 @@
-# cek_mahasiswa_usu
